@@ -2,7 +2,7 @@
 
 Welcome to the **Sir Syed Block Network Design Project** repository! This project demonstrates the design and implementation of a scalable and reliable network infrastructure for the Sir Syed Block at Bahria University. It includes detailed documentation, configuration files, and testing results to showcase the practical application of networking concepts.
 
-## Project Overview
+## 📚 Project Overview
 
 The goal of this project is to design a network infrastructure connecting multiple offices, labs, and departments, ensuring seamless communication, resource sharing, and centralized management. The network is designed to support future scalability and maintain high security and efficiency.
 
@@ -18,13 +18,13 @@ The goal of this project is to design a network infrastructure connecting multip
 
 ---
 
-## Software Used
+## 🛠 Software Used
 
 The project was developed using **Cisco Packet Tracer**, a beginner-friendly network simulation tool that allows easy design, configuration, and testing of network topologies.
 
 ---
 
-## Network Design
+## 📜 Network Design
 
 ### Topologies
 - **Star Topology** for department-level connections.
